@@ -1,9 +1,9 @@
-name: Streamlit
-description: Run a Streamlit app inside CML.
-author: Cloudera Inc.
+name: Clustering POC LPS
+description: Segmentation through clustering, deployed using Streamlit.
+author: Adrian Maulana M.
 specification_version: 1.0
 prototype_version: 2.0
-date: "2022-03-24"
+date: "2024-03-24"
 
 runtimes:
   - editor: Workbench
