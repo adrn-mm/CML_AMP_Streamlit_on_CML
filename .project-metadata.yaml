@@ -19,9 +19,9 @@ tasks:
     memory: 2
 
   - type: start_application
-    name: Streamlit App
+    name: Clustering POC LPS
     subdomain: streamlit
     script: cml/launch_app.py
-    short_summary: Start Streamlit application
+    short_summary: Segmentation through clustering, deployed using Streamlit.
     environment_variables:
       TASK_TYPE: START_APPLICATION
